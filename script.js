@@ -6,6 +6,9 @@
 const answer=+prompt("Вам есть 18 лет?","");
 console.log(typeof(answer));
 
+const answer=+prompt("Вам есть 18 лет?","");
+console.log(answer);
+
 
 // var name="Joe";
 // var i=0;
